@@ -1,5 +1,5 @@
 # Aprendizagem Conexionista de Máquina
-Atividade 05-11-2026
+Atividade 05-11-2026  
 Integrantes: Adrya Vieira, Hagata Rodrigues e Rafaelly Dos Anjos
 ## Implementação de Rede Neural de 2 Camadas
 
