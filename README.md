@@ -1,0 +1,1 @@
+# Aprendizagem_Conexionista_de_maquina_05-11-2026
