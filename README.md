@@ -1,4 +1,6 @@
 # Aprendizagem Conexionista de Máquina
+Atividade 05-11-2026
+Integrantes: Adrya Vieira, Hagata Rodrigues e Rafaelly Dos Anjos
 ## Implementação de Rede Neural de 2 Camadas
 
 Abaixo está a explicação do código para o treinamento de uma rede neural simples utilizando a biblioteca NumPy.
